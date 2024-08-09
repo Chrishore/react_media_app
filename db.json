@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "84a5",
+      "name": "Ramon Zieme II"
+    },
+    {
+      "id": "0c5e",
+      "name": "Roland Rogahn"
+    },
+    {
+      "id": "aa05",
+      "name": "Jesse Rodriguez"
+    },
+    {
+      "id": "12cc",
+      "name": "Elmer Berge"
+    },
+    {
+      "id": "4be7",
+      "name": "Doyle Bayer"
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
